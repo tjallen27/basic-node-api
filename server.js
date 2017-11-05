@@ -1,5 +1,5 @@
 const express = require('express');
-const bodyParser = require('bodyParser');
+const bodyParser = require('body-parser');
 var app = express();
 
 // BodyParser allows us to get the data from a Post
